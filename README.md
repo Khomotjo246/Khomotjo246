@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Khomotjo Maluleke
 
-<!--
-**Khomotjo246/Khomotjo246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science student @ University of Pretoria  
+🌍 Sikelela Scholar | Programming Mentor | Backend & Web Developer  
+💡 Passionate about AI, clean code, and building impactful tech solutions  
+🧑‍🏫 Introduced high school learners to Python & computational thinking
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages**: Python, JavaScript, TypeScript, Java, PHP, HTML, CSS, C++  
+**Frameworks/Tools**: Node.js, PostgreSQL, MySQL, Git, R Studio  
+**Concepts**: OOP, REST APIs, AI Fundamentals, Software Engineering Principles
+
+---
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/khomotjo-maluleke-4181a929b)  
+📧 Email: [khoomotjomaluleke@gmail.com]
+
